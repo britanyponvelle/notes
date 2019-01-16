@@ -1,0 +1,21 @@
+# Studios
+A list of bass ass studios.  
+
+- [Second Story](https://secondstory.com/)
+- [Pentagram](https://www.pentagram.com/)
+- [Wolff Olins](https://www.wolffolins.com/)
+- [Landor](https://landor.com/)
+- [Locomotive](https://locomotive.ca/en/projects/digital)
+- [Brand Brothers](https://www.brandbrothers.fr/fr/work-portfolio-branding-design/)
+- [Image Conscious Studios](https://www.icscreative.com/)
+- [Kontrapunkt](https://www.kontrapunkt.com/)
+- [BrandExtract](https://www.brandextract.com/)
+- [Principle](http://www.designbyprinciple.com/)
+- [60fps](http://www.60fps.fr/en)
+- [One Design Company](https://onedesigncompany.com/)
+- [Sagmeister & Walsh](https://sagmeisterwalsh.com/)
+- [Chermayeff & Geismar & Haviv](http://www.cghnyc.com/)
+- [Meta Design](https://en.metadesign.com/)
+- [Huge](https://www.hugeinc.com/)
+- [First Born](https://www.firstborn.com/)
+- [Happy Cog](https://www.happycog.com/)
