@@ -1,4 +1,5 @@
 # Brand Guidelines
+A collection of well-crafted design guidelines and systems.
 
 - [Delta](https://www.dropbox.com/s/m7870x95po3dd58/delta_style_guide.pdf?dl=0)
 - [BG](https://www.dropbox.com/s/5vdeyu4jp04afhf/BG%20Visual%20Identity%20Guidelines.pdf?dl=0)
