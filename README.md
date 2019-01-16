@@ -7,5 +7,5 @@ My version-controlled notebook for things that I like.
 
 
 
-[tools.md](tools)
-[brand_guidelines.md](brand guidelines)
+- [Tools](tools.md) 
+- [Brand Guidelines](brand_guidelines.md)
