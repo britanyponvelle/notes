@@ -7,6 +7,8 @@ A collection of well-crafted design guidelines and systems.
 - [Dell](https://issuu.com/headlenio/docs/dell_brand_standards)
 
 ## Design Systems
+- [Storybook](https://storybook.js.org/examples/)
+- [Design Better](https://www.designbetter.co/design-systems-handbook): Design Systems Handbook
 - [Carbon Design System](https://www.carbondesignsystem.com/)
 - [Mailchimp](https://ux.mailchimp.com/patterns)
 - [Lightening Design System](https://www.lightningdesignsystem.com/)
@@ -19,3 +21,4 @@ A collection of well-crafted design guidelines and systems.
 - [IBM Design Language](https://www.ibm.com/design/language/)
 - [Nachos](https://design.trello.com/)
 - [BBC GEL](http://www.bbc.co.uk/gel/)
+- [Shopify's Polaris](https://polaris.shopify.com/)
