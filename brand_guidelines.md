@@ -25,3 +25,4 @@ A collection of well-crafted design guidelines and systems.
 
 ## Logo Usage
 - [Apple Marketing Guidelines](https://developer.apple.com/app-store/marketing/guidelines/)
+- [LinkedIn](https://brand.linkedin.com/visual-identity/logo)
