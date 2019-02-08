@@ -19,3 +19,4 @@ A list of bass ass studios.
 - [Huge](https://www.hugeinc.com/)
 - [First Born](https://www.firstborn.com/)
 - [Happy Cog](https://www.happycog.com/)
+- [Confederation](https://confederationstudio.com/)
