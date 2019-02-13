@@ -21,7 +21,7 @@ A collection of tools I use.
 
 ## UX
 - [Laws of UX](https://lawsofux.com/)
-- [UX Patterns and Principles](https://www.uxbooth.com/)
+- [UX Booth](https://www.uxbooth.com/)
 
 ## Repos + Libraries
 - [Designer Lynx](https://www.designerlynx.co/)
