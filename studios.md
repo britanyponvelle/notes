@@ -20,3 +20,5 @@ A list of bass ass studios.
 - [First Born](https://www.firstborn.com/)
 - [Happy Cog](https://www.happycog.com/)
 - [Confederation](https://confederationstudio.com/)
+- [Gretel](https://gretelny.com/)
+- [Ueno](https://ueno.co/)
