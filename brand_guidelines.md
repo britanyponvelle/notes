@@ -29,6 +29,9 @@ A collection of well-crafted design guidelines and systems.
 - [Google Material](https://material.io/)
 - [Primer](https://styleguide.github.com/primer/)
 - [Ratio](https://ui-kit.rambler.ru/#/)
+- [Sprout Social](https://sproutsocial.com/seeds/)
+- [Zen Desk](https://garden.zendesk.com/)
+- [Zeit](https://zeit.co/design/now)
 
 ## Logo Usage
 - [Apple Marketing Guidelines](https://developer.apple.com/app-store/marketing/guidelines/)
