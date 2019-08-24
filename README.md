@@ -10,3 +10,4 @@ My version-controlled notebook for things that I like.
 - [Tools](tools.md) 
 - [Brand Guidelines](brand_guidelines.md)
 - [Studios](studios.md)
+- [Principles](principles.md)
