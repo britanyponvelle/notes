@@ -22,6 +22,7 @@ A collection of well-crafted design guidelines and systems.
 - [Nachos](https://design.trello.com/)
 - [BBC GEL](http://www.bbc.co.uk/gel/)
 - [Shopify's Polaris](https://polaris.shopify.com/)
+- [Ant](https://ant.design/docs/spec/values)
 
 ## Logo Usage
 - [Apple Marketing Guidelines](https://developer.apple.com/app-store/marketing/guidelines/)
