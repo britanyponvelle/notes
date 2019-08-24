@@ -32,6 +32,7 @@ A collection of well-crafted design guidelines and systems.
 - [Sprout Social](https://sproutsocial.com/seeds/)
 - [Zen Desk](https://garden.zendesk.com/)
 - [Zeit](https://zeit.co/design/now)
+- [Starbucks Creative](https://creative.starbucks.com/)
 
 ## Logo Usage
 - [Apple Marketing Guidelines](https://developer.apple.com/app-store/marketing/guidelines/)
