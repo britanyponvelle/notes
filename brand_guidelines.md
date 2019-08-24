@@ -27,6 +27,8 @@ A collection of well-crafted design guidelines and systems.
 - [Liferay](https://liferay.design/lexicon/)
 - [Marvel](https://marvelapp.com/styleguide/overview/introduction)
 - [Google Material](https://material.io/)
+- [Primer](https://styleguide.github.com/primer/)
+- [Ratio](https://ui-kit.rambler.ru/#/)
 
 ## Logo Usage
 - [Apple Marketing Guidelines](https://developer.apple.com/app-store/marketing/guidelines/)
