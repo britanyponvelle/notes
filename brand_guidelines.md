@@ -26,6 +26,7 @@ A collection of well-crafted design guidelines and systems.
 - [Heroku](https://brand.heroku.com/)
 - [Liferay](https://liferay.design/lexicon/)
 - [Marvel](https://marvelapp.com/styleguide/overview/introduction)
+- [Google Material](https://material.io/)
 
 ## Logo Usage
 - [Apple Marketing Guidelines](https://developer.apple.com/app-store/marketing/guidelines/)
