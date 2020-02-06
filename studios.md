@@ -21,4 +21,10 @@ A list of bass ass studios.
 - [Happy Cog](https://www.happycog.com/)
 - [Confederation](https://confederationstudio.com/)
 - [Gretel](https://gretelny.com/)
-- [Ueno](https://ueno.co/)
+- [Ueno](https://ueno.co/)  
+
+## Ad Agencies
+- [Goodby Silverstein](https://goodbysilverstein.com/)  
+- [Wieden and Kennedy](https://www.wk.com/)  
+- [Crispen Porter](https://www.cpbgroup.com/)  
+- [Droga5](https://droga5.com/)
